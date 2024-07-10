@@ -26,3 +26,4 @@ in order to utilize her capabilities to the fullest. She requires a bit of setup
 ## **Additional Content**
 - The `data.txt` file is there to keep and store reminders, to utilize that function, keep the file in the same directory.
 - The `C.L.A.I.R.E.bat` file is there to execute the program with a CLI interface, in order to give it some Interface, if you add this `.bat` file to your `startup` folder, the assistant will run just as the computer turns on to start its pre defined actions.
+      - **NOTE:** Make sure to edit the `.bat` file and add YOUR own username for the file to function, otherwise it will give errors.
