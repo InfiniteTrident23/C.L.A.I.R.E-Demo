@@ -5,7 +5,8 @@ in order to utilize her capabilities to the fullest. She requires a bit of setup
 ## ***Specifications***
 - Currently developed and tested on Python3 (version 3.12.4)
 - Following Python libraries are required for the code to work:
-    |Name|Requirement|Purpose
+    |Name|Requirement|Purpose|
+  |-----------|------------------------------------|----------------------------|
     |PyAudio| Required| For Audio input/output operations.|
     |speech_recognition| Required| For speech recognition. |
     |pyttsx3| Required| For text to speech conversion and vice versa.|
