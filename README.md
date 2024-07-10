@@ -5,13 +5,11 @@ in order to utilize her capabilities to the fullest. She requires a bit of setup
 ## ***Specifications***
 - Currently developed and tested on Python3 (version 3.12.4)
 - Following Python libraries are required for the code to work:
-    |Name|Requirement|Purpose|
-  |-----------|------------------------------------|----------------------------|
-    |PyAudio| Required| For Audio input/output operations.|
-    |speech_recognition| Required| For speech recognition. |
-    |pyttsx3| Required| For text to speech conversion and vice versa.|
-    |webbrowser| Required| For web browser activities and internet capabilities.|
-    |wikipedia| Recommended| For Wiki searches.|
-    |psutil| Recommended| For system features.|
-    |smtplib| Optional| This will be required for email sending capabilities, if you do not plan on having it, this module will not be required (make sure you remove the email section from the code).|
+    |Name|Requirement|Purpose|Installation|
+  |-----------|------------------------------------|----------------------------|-------------|
+    |PyAudio| Required| For Audio input/output operations.|https://pypi.org/project/PyAudio/|
+    |speech_recognition| Required| For speech recognition. |https://pypi.org/project/SpeechRecognition/|
+    |pyttsx3| Required| For text to speech conversion and vice versa.|https://pypi.org/project/pyttsx3/|
+    |wikipedia| Recommended| For Wiki searches.|https://pypi.org/project/wikipedia/|
+    |psutil| Recommended| For system features.|https://pypi.org/project/psutil/|
   - \* **NOTE:** The rest of the libraries are built-in in Python, hence, do not require separate installation.\*
