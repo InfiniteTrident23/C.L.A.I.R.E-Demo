@@ -1,5 +1,5 @@
 # Welcome! Let me introduce you to my dutiful assistant C.L.A.I.R.E.
-<p align="center"> ![WhatsApp Image 2024-07-10 at 15 23 27_cb3f539c](https://github.com/InfiniteTrident23/C.L.A.I.R.E-Demo/assets/128295541/bd48129c-131c-41ea-979a-074addc775ff) </p>
+<p align="center"> <img src= "https://github.com/InfiniteTrident23/C.L.A.I.R.E-Demo/assets/128295541/bd48129c-131c-41ea-979a-074addc775ff"> </p>
 
 She is my personal assistant developed in increasing my productivity and helping me in everyday tasks. The thing to know about C.L.A.I.R.E. is that she is a bit shy, so you will have to familiarize yourself with her 
 in order to utilize her capabilities to the fullest. She requires a bit of setup and customizations, but once they are done, she will be your one stop to productivity!
