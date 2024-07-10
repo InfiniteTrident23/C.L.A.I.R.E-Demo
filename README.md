@@ -22,3 +22,7 @@ in order to utilize her capabilities to the fullest. She requires a bit of setup
 - All changes needed to be done for full functionality has been marked with a comment in the line for your benefit.
 - To launch an application, the path for the executable file will need to be changed at places marked with a comment.
 - There are a few features like opening my Gaming system every evening (cause that's just what I did during covid:sweat_smile:), so you can either remove the function or customize according to your needs just by changing executable paths.
+
+## **Additional Content**
+- The `data.txt` file is there to keep and store reminders, to utilize that function, keep the file in the same directory.
+- The `C.L.A.I.R.E.bat` file is there to execute the program with a CLI interface, in order to give it some Interface, if you add this `.bat` file to your `startup` folder, the assistant will run just as the computer turns on to start its pre defined actions.
